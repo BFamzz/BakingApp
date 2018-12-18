@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+    <!--// Recipe image url-->
+
+    <!--<string-array name="recipeImages">-->
+    <!--<item>https://hips.hearstapps.com/del.h-cdn.co/assets/16/32/1470773544-delish-nutella-cool-whip-pie-1.jpg</item>-->
+    <!--<item>https://images-gmi-pmc.edge-generalmills.com/c95a0455-70d0-4667-bc17-acfaf2894210.jpg</item>-->
+    <!--<item>https://assets.epicurious.com/photos/57c5b45184c001120f616523/master/pass/moist-yellow-cake.jpg</item>-->
+    <!--<item>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/104649.jpg</item>-->
+    <!--</string-array>-->
+
+    <string name="recipe_ingredients">Ingredients</string>
+    <string name="recipe_steps">Steps</string>
+
+    <string name="recipe_ingredient_quantity">Quantity:</string>
+</resources>
